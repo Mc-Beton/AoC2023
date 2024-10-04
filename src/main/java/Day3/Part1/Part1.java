@@ -1,2 +1,4 @@
-package Day3.Part1;public class Part1 {
+package Day3.Part1;
+
+public class Part1 {
 }
